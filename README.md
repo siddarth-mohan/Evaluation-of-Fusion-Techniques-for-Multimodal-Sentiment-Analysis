@@ -1,7 +1,8 @@
 # Evaluation-of-Fusion-Techniques-for-Multimodal-Sentiment-Analysis
 Published in IEEE conference:
 https://ieeexplore.ieee.org/document/10088291
-The project involved:
+
+The project involves:
 
 Implementing individual models for text and image data to capture sentiment cues from respective modalities.
 
